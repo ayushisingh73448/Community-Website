@@ -20,7 +20,7 @@ It is completely responsive website, to provide smooth experience...😎
 
 
 
-### BigB website build using HTML5, CSS3, JavaScript ,Ruby , SCSS and jQuery.
+### Website build using HTML5, CSS3, JavaScript ,Ruby , SCSS and jQuery.
 
 <h2> Website:Comming Soon After final touch <BR>
 <a href="" target="_blank">Visit 🚀</a>
@@ -64,7 +64,7 @@ It is completely responsive website, to provide smooth experience...😎
 
 <div align="center">
 
-<a href="https://github.com/The-Shivam-garg/Community-Website"><img src="https://sloc.xyz/github/The-Shivam-garg/Community-Website"    alt="LOC" /></a>
+<a href="https://github.com/The-Shivam-garg/Community-Website"><img src="https://sloc.xyz/github/The-Shivam-garg/Community-Website"  alt="LOC" /></a>
 <a href="https://github.com/The-Shivam-garg/Community-Website"><img src="https://img.shields.io/github/stars/The-Shivam-garg/Community-Website" alt="Stars Badge" /></a>
 <a href="https://github.com/The-Shivam-garg/Community-Website/network/members"><img src="https://img.shields.io/github/forks/The-Shivam-garg/Community-Website" alt="Forks Badge" /></a>
 <a href="https://github.com/The-Shivam-garg/Community-Website/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/The-Shivam-garg/Community-Website?color=2b9348" ></a>
